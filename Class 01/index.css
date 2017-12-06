@@ -1,0 +1,20 @@
+h1 {
+    background-color: pink;
+    color: black;
+    font-family: monospace;
+    font-size: 3em
+}
+
+.yahoo{
+    font-weight: bolder;
+}
+
+#google{
+    background-color: gray;
+}
+
+.img-circle {
+    border: darkblue 4px;
+    border-radius: 500px;
+    border-style: dotted;
+}
